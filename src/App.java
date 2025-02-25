@@ -3,9 +3,9 @@ import projeto.*;
 
 public class App { 
     public static void main(String[] args) { 
-        String arquivoPalavrasChave = "C:\\Users\\camil\\OneDrive\\Área de Trabalho\\TrabalhoTulio\\TrabalhoTulio\\TrabalhoTulio\\arquivos\\palavras-chave.txt"; 
-        String arquivoTexto = "C:\\Users\\camil\\OneDrive\\Área de Trabalho\\TrabalhoTulio\\TrabalhoTulio\\TrabalhoTulio\\arquivos\\texto.txt"; 
-        String arquivoSaida = "C:\\Users\\camil\\OneDrive\\Área de Trabalho\\TrabalhoTulio\\TrabalhoTulio\\TrabalhoTulio\\arquivos\\saida.txt"; 
+        String arquivoPalavrasChave = "C:\\Users\\camil\\OneDrive\\Documentos\\ProjetoIndiceRemissivo\\arquivos\\palavras-chave.txt"; 
+        String arquivoTexto = "C:\\Users\\camil\\OneDrive\\Documentos\\ProjetoIndiceRemissivo\\arquivos\\texto.txt"; 
+        String arquivoSaida = "C:\\Users\\camil\\OneDrive\\Documentos\\ProjetoIndiceRemissivo\\arquivos\\saida.txt"; 
 
         try { 
             TabelaDispersao palavrasChave = LeitorArquivos.lerArquivoPalavrasChave(arquivoPalavrasChave); 
