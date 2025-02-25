@@ -1,0 +1,12 @@
+algoritmo: 2, 10, 12, 14, 20, 22
+balanceamento: 9, 18, 22, 23
+busca: 3, 5, 12, 14, 25
+complexidade: 2, 5, 6
+desempenho: 6, 12, 19
+eficiaªncia: 2, 10, 19
+estrutura: 1, 6, 19
+folha: 9
+hash: 3, 11, 12, 15, 21
+java: 1, 19
+raiz: 9
+tabela: 3, 11, 12, 15, 21
